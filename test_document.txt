@@ -1,1 +1,3 @@
-ok, this is a test
+ok, this is a test.
+
+Look, I made a good change
